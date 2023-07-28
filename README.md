@@ -29,4 +29,4 @@ If you'd like to know more about me or have any questions, feel free to get in t
 
 Thank you for visiting my profile! I hope you have a wonderful time getting to know more about me.
 
-_“With unwavering perseverance and diligent effort,one can ascend and conquer any pinnacle of success.” - [Zang Vũ]_
+_“With unwavering perseverance and diligent effort,one can ascend and conquer any pinnacle of success.” - Zang Vũ_
