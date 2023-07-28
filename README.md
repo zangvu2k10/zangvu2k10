@@ -26,7 +26,7 @@ I believe that life holds so many fascinating things, and I aspire to:
 If you'd like to know more about me or have any questions, feel free to get in touch through:
 
 - Email: [zangvu@proton.me](mailto:zangvu@proton.me)
-- Facebook: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)
+- Facebook: [Zang Vu]((https://www.facebook.com/profile.php?id=100090447288595))
 - Personal Website: [blog.zangvu.uk](https://blog.zangvu.uk)
 
 Thank you for visiting my profile! I hope you have a wonderful time getting to know more about me.
