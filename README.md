@@ -6,7 +6,7 @@
 Hi there, I'm Zang Vũ 👋
 </h3>
 
-Hello there! I'd like to share a bit about myself:
+I'd like to share a bit about myself:
 
 ### ✨ Hobbies
 Life isn't just about work and studies; I have some exciting hobbies related to technology and problem-solving:
