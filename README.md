@@ -1,3 +1,6 @@
+<p align="center">
+  <a href="https://blog.zangvu.uk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/zangvu2k10/img/main/zangvu.png" alt="my banner"></a>
+</p>
 # **Hello, I am Zang Vũ** 🌟
 
 Hello there! I'd like to share a bit about myself:
