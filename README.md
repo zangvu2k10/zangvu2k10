@@ -1,12 +1,15 @@
 <p align="center">
   <a href="https://blog.zangvu.uk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/zangvu2k10/img/main/zangvu.png" alt="my banner"></a>
 </p>
-# **Hello, I am Zang Vũ** 🌟
+
+<h3 align="center">
+Hi there, I'm <a href="blog.zangvu.uk" target="_blank" rel="noreferrer">Zang Vũ</a> 👋
+</h3>
 
 Hello there! I'd like to share a bit about myself:
 
 ### ✨ Hobbies
-Life isn't just about work and studies; I also have some exciting hobbies related to technology and problem-solving:
+Life isn't just about work and studies; I have some exciting hobbies related to technology and problem-solving:
 
 - 💻 Programming: I love diving into various programming languages and building innovative projects. From web development to data science, I enjoy the thrill of turning ideas into functional code.
 
