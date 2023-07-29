@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="blog.zangvu.uk" target="_blank" rel="noreferrer">Zang Vũ</a> 👋
+Hi there, I'm Zang Vũ 👋
 </h3>
 
 Hello there! I'd like to share a bit about myself:
