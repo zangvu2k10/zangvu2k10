@@ -2,7 +2,7 @@
 
 
 - Email: [zangvu@proton.me](mailto:zangvu@proton.me)
-- Facebook: [https://www.facebook.com/ZangVu](https://www.facebook.com/profile.php?id=100090447288595)
+- Facebook: [Zang Vu](https://www.facebook.com/profile.php?id=100090447288595)
 - Github: [zangvu2k10](https://github.com/zangvu2k10/)
 - Personal Website: [blog.zangvu.uk](https://blog.zangvu.uk)
 
